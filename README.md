@@ -9,3 +9,5 @@ Simple discord code bot in python with member verification feature when user pre
 2. enter discord bot TOKEN and ROLE ID
 3. !verify
 ```
+> Make sure your bot role is above the member role 
+![image img](/image.png)
