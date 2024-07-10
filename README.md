@@ -1,7 +1,5 @@
 # Verify-Bot_discord
 Simple discord code bot in python with member verification feature when user presses button
-## [+] ADDED ONLY ADMIN / HIGH ROLE / OWNER CAN USE IT
-
 ---
 
 > HOW TO USE : </br>
