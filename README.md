@@ -12,4 +12,4 @@ Simple discord code bot in python with member verification feature when user pre
 > Make sure your bot role is above the member role 
 ![image img](/image.png)
 
-# DONT FORGET THE STAR :)
+# DON'T FORGET TO STAR THIS REPOS :)
